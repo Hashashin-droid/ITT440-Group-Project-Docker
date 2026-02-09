@@ -1,6 +1,9 @@
 
 # ITT440 — Docker Socket Programming Project
 
+## 🎥 Demo Video
+▶ https://youtu.be/jls_jp_3AA0
+
 ## Overview
 
 This project demonstrates client–server communication using **TCP and UDP sockets** implemented in **C and Python**, running inside Docker containers and connected to a shared **MySQL database**.
